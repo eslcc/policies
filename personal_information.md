@@ -22,7 +22,7 @@ Note: comments in [square brackets] are not part of the policy and are only to c
 
 **Article 7.** For each application involving the use of personal information, the eslcc shall appoint a data controller. They shall have the responsibility of controlling access to the information according to this policy. They shall be the point of contact with all questions regarding access and use of the information. As this is a high-trust position, its appointment shall not be taken lightly.
 
-**Article 8.** The data controller shall be the first to take possession of the information, and he shall be the last to destroy it when it is no longer necessary.
+**Article 8.** The data controller shall be the first to take possession of the information, and they shall be the last to destroy it when it is no longer necessary.
 
 **Article 9.** When personal information has to be used, the number of people with access to it shall be limited to only those with an absolute need to have access. These people must have read, understood, and agreed to this policy. The list of people with authorisation to access information shall be controlled by the data controller.
 
