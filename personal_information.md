@@ -22,7 +22,7 @@ Note: comments in [square brackets] are not part of the policy and are only to c
 
 ## Procedures
 
-**Article 8.** Personal information shall not be used at all except when absolutely necessary. *[In development of an application, for example, instead of the actual information, dummy data matching the structure of the information should be used, and the real information should only be used when necessary.]*
+**Article 8.** Personal information **shall not be used at all except when absolutely necessary**.
 
 **Article 9.** For each application involving the use of personal information, the eslcc shall appoint a data controller. They shall have the responsibility of controlling access to the information according to this policy. They shall be the point of contact with all questions regarding access and use of the information. As this is a high-trust position, its appointment shall not be taken lightly.
 
