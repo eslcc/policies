@@ -28,7 +28,7 @@ Note: comments in [square brackets] are not part of the policy and are only to c
 
 **Article 10.** The data controller shall be the first to take possession of the information, and they shall be the last to destroy it when it is no longer necessary.
 
-**Article 11.** When personal information has to be used, the number of people with access to it shall be limited to only those with an absolute need to have access. These people must have read, understood, and agreed to this policy. The list of people with authorisation to access information shall be controlled by the data controller. Only when they have agreed to the policy will the data controller issue them with a copy of the information and/or access to any external resources.
+**Article 11.** When personal information has to be used, the people with access to it shall be limited to only those with an absolute need to have access. These people must have read, understood, and agreed to this policy. The list of people with authorisation to access information shall be controlled by the data controller. Only when they have agreed to the policy will the data controller issue them with a copy of the information and/or access to any external resources.
 
 **Article 12.** The data controller shall control access to external resources in the same manner as they control access to copies of the information.
 
